@@ -1,8 +1,10 @@
 # Overheid.nl Corpus (version 1, June 2015)
 
+**Github:**
 This folder contains scripts to create a corpus of Dutch government-related texts.
 That corpus is hosted [here](http://kyoto.let.vu.nl/~miltenburg/public_data/overheid/).
 
+**Description copied from the original:**
 This corpus is based on open XML data from the Dutch government, obtained through
 [Overheid.nl](www.overheid.nl). This data consists of text from four types of sources
 (codes between parentheses are those used by Overheid.nl, which I kept for consistency):

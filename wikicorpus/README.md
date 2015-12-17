@@ -1,7 +1,11 @@
 # Wikipedia corpus for Dutch (version 1, June 2015)
+
+**Github:**
 This folder contains the scripts I used to create the Wikipedia plaintext corpus
-hosted [here](http://kyoto.let.vu.nl/~miltenburg/public_data/wikicorpus/). This
-is a corpus based on the Dutch Wikipedia. It consists of 192,830,802 tokens
+hosted [here](http://kyoto.let.vu.nl/~miltenburg/public_data/wikicorpus/).
+
+**Description copied from the original:**
+This is a corpus based on the Dutch Wikipedia. It consists of 192,830,802 tokens
 (words + interpunction).
 
 # Source
